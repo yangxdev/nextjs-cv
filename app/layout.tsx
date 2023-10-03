@@ -17,6 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>Xiang - CV</title>
+      </head>
       <body className={inter.className}>
         {children}
         <Analytics />

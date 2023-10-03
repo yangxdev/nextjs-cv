@@ -10,7 +10,7 @@ const ContactSection = () => (
     <div className="card-left-section1-contacts flex flex-nowrap text-sm font-light">
         <div className="card-left-section1-contacts-left mr-4">
             <ContactLink
-                href="github.com/yangxdev"
+                href="https://github.com/yangxdev"
                 iconName="github"
                 label="github.com/yangxdev"
                 icon={<GithubIcon />}

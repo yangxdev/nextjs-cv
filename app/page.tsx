@@ -6,9 +6,6 @@ import { Analytics } from '@vercel/analytics/react';
 export default function Home() {
   return (
     <div className="container mx-auto p4 bg-white">
-      <head>
-        <title>Xiang - CV</title>
-      </head>
 
       <div className="card bg-white flex">
         <div className="card-left col">
@@ -29,7 +26,7 @@ export default function Home() {
         </div>
         <div className="card-right col">
           <div className="card-right-section1">
-          placeholder
+            placeholder
           </div>
         </div>
       </div>
