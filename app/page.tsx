@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import ContactSection from './ContactSection';
+import WorkExperience from './WorkExperience';
 
 export default function Home() {
   return (
@@ -8,8 +9,8 @@ export default function Home() {
         <title>Xiang - CV</title>
       </head>
 
-      <div className="card bg-white">
-        <div className="card-left">
+      <div className="card bg-white flex">
+        <div className="card-left col">
           <div className="card-left-section1 text-black">
             <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center">
               <h1 className='mr-1'>Yang</h1>
@@ -22,10 +23,13 @@ export default function Home() {
               <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Full Stack Developer</h2>
             </div>
             <ContactSection />
+            <WorkExperience />
           </div>
         </div>
-        <div className="card-right">
-
+        <div className="card-right col">
+          <div className="card-right-section1">
+          placeholder
+          </div>
         </div>
       </div>
     </div>
