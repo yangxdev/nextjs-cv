@@ -4,12 +4,12 @@ import WorkExperience from './WorkExperience';
 import Projects from './Projects';
 import CareerObjective from './CareerObjective';
 import QrCodes from './QrCodes';
+import Education from './Education';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
   return (
     <div className="container mx-auto p4 bg-white">
-
       <div className="card bg-white flex">
         <div className="card-left col">
           <div className="card-left-section1 text-black">
@@ -34,6 +34,9 @@ export default function Home() {
           </div>
           <div className="card-right-section1 text-black">
             <CareerObjective />
+          </div>
+          <div className="card-right-section2 text-black">
+            <Education />
           </div>
         </div>
       </div>
