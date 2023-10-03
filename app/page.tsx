@@ -3,6 +3,7 @@ import ContactSection from './ContactSection';
 import WorkExperience from './WorkExperience';
 import Projects from './Projects';
 import CareerObjective from './CareerObjective';
+import QrCodes from './QrCodes';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
@@ -28,6 +29,9 @@ export default function Home() {
           </div>
         </div>
         <div className="card-right col ml-4">
+          <div className="card-right-section0">
+            <QrCodes />
+          </div>
           <div className="card-right-section1 text-black">
             <CareerObjective />
           </div>

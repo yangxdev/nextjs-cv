@@ -30,9 +30,9 @@ const ContactSection = () => (
         </div>
         <div className="card-left-section1-contacts-right">
             <ContactLink
-                href="mailto: yangxiangpro@gmail.com"
+                href="mailto: yangxdev@gmail.com"
                 iconName="email"
-                label="yangxiangpro@gmail.com"
+                label="yangxdev@gmail.com"
                 icon={<EmailIcon />}
             />
             <ContactLink
