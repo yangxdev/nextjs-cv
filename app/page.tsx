@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import ContactSection from './ContactSection';
 import WorkExperience from './WorkExperience';
+import Projects from './Projects';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
             </div>
             <ContactSection />
             <WorkExperience />
+            <Projects />
           </div>
         </div>
         <div className="card-right col">
