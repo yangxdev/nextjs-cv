@@ -1,12 +1,10 @@
 import SectionItem from './SectionItem.jsx';
+import Divider from './Divider.jsx';
 
 const Projects = () => (
     <div className="card-left-section3-projects">
         <h1 className="uppercase font-bold text-xl mb-1">Projects</h1>
-        {/* horizontal line */}
-        <div className="card-left-section3-projects-line mb-1">
-            <hr className="border border-t-3 border-black"/>
-        </div>
+        <Divider />
         <SectionItem
             title="Personal Curriculum Vitae Website"
             company="Personal Project"
