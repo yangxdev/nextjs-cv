@@ -19,6 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>Xiang - CV</title>
+        <script src="https://kit.fontawesome.com/bf7030a4e6.js" crossOrigin="anonymous"></script>
       </head>
       <body className={inter.className}>
         {children}

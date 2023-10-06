@@ -5,6 +5,7 @@ import Projects from './Projects';
 import CareerObjective from './CareerObjective';
 import QrCodes from './QrCodes';
 import Education from './Education';
+import Skills from './Skills';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
@@ -38,9 +39,13 @@ export default function Home() {
           <div className="card-right-section2 text-black">
             <Education />
           </div>
+          <div className="card-right-section3 text-black">
+            <Skills />
+          </div>
         </div>
       </div>
       <Analytics />
+  
     </div>
   )
 }
