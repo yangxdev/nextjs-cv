@@ -11,7 +11,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
   return (
-    <div className="container mx-auto p-4 bg-white h-max mt-11"
+    <div className="container mx-auto p-4 bg-white h-max"
       style={{ maxWidth: '210mm', maxHeight: '297mm'}}  >
       <div className="card bg-white flex">
         <div className="card-left flex-grow col">
