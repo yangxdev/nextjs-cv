@@ -5,7 +5,7 @@ import { faEnvelope, faPhone, faMapMarkerAlt } from '@fortawesome/free-solid-svg
 
 const ContactSection = () => (
     <div className="card-left-section1-contacts flex flex-nowrap text-sm font-light">
-        <div className="card-left-section1-contacts-left mr-4 ml-1">
+        <div className="card-left-section1-contacts-left mr-4 ml-1 ">
             <ContactLink
                 href="https://github.com/yangxdev"
                 iconName="github"

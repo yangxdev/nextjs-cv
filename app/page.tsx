@@ -16,7 +16,7 @@ export default function Home() {
       <div className="card bg-white flex">
         <div className="card-left flex-grow col">
           <div className="card-left-section1 text-black">
-            <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center">
+            <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center hover:text-blue-600 transition duration-100 ease-in-out">
               <h1 className='mr-1'>Yang</h1>
               <h1>Xiang</h1>
               <div className="card-left-section1-full-name-logo ml-1">
@@ -38,7 +38,7 @@ export default function Home() {
           <div className="card-right-section1 text-black">
             <CareerObjective />
           </div>
-          <div className="card-right-section2 text-black">
+          <div className="card-right-section2 text-black mt-1">
             <Education />
           </div>
           <div className="card-right-section3 text-black">
