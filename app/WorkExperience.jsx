@@ -18,7 +18,7 @@ const WorkExperience = () => (
                 "Actively contributing to the enhancement of a B2B ecommerce solution for a major booking platform",
                 "Communication with clients and design teams to understand requirements and propose solutions",
                 "Planning, review and implementation of new features and functionalities",
-                <span>Utilizing <b>Agile Scrum</b> practices, coordinated through Jira, Confluence and GitLab, within a team of 10 developers</span>,
+                <span key="key-1-deloitte">Utilizing <b>Agile Scrum</b> practices, coordinated through Jira, Confluence and GitLab, within a team of 10 developers</span>,
             ]}
         />
         <SectionItem 
