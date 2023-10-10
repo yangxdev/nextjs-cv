@@ -18,7 +18,7 @@ const Projects = () => (
                 "My CV website built with NextJS and TailwindCSS, hosted on Vercel.", ]}
         />
         <SectionItem
-            title="Front End Development Projects"
+            title="Front-end Development Projects"
             company="Frontend Mentor"
             companyUrl="https://www.frontendmentor.io/profile/yangxdev"
             startDate="April 2020"

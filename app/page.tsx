@@ -24,7 +24,7 @@ export default function Home() {
               </div>
             </div>
             <div className="card-left-section1-job-title">
-              <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Full Stack Developer</h2>
+              <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Full-stack Developer</h2>
             </div>
             <ContactSection />
             <WorkExperience />

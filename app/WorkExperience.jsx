@@ -6,7 +6,7 @@ const WorkExperience = () => (
         <h1 className='uppercase font-bold text-xl mb-1'>Work Experience</h1>
         <Divider />
         <SectionItem 
-            title="Full Stack Developer & Consultant"
+            title="Full-stack Developer & Consultant"
             company="Deloitte"
             companyUrl=""
             startDate="March 2023"
