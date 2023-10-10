@@ -7,8 +7,8 @@ const Projects = () => (
         <Divider />
         <SectionItem
             title="Curriculum Vitae Website"
-            company="Personal Project"
-            companyUrl="https://github.com/yangxdev-org/nextjs-cv"
+            company="GitHub Project"
+            companyUrl="https://github.com/yangxdev/nextjs-cv"
             startDate="October 2023"
             endDate=""
             present={true}
@@ -26,7 +26,7 @@ const Projects = () => (
             present={true}
             location="Rimini, RN"
             locationUrl="https://www.google.com/maps/place/Rimini,+RN"
-            description={["Building of front-end projects using technologies spanning from vanilla JS to ReactJS and NextJS, coupled with Bootstrap, SCSS, up to TailwindCSS"]}
+            description={["Building of front-end projects using technologies spanning from vanilla JS to ReactJS and NextJS, coupled with Bootstrap, SASS, up to TailwindCSS"]}
         />
     </div>
 );
