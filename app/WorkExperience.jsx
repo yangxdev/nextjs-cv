@@ -6,7 +6,7 @@ const WorkExperience = () => (
         <h1 className='uppercase font-bold text-xl mb-1'>Work Experience</h1>
         <Divider />
         <SectionItem 
-            title="Full Stack Developer"
+            title="Full Stack Developer & Consultant"
             company="Deloitte"
             companyUrl=""
             startDate="March 2023"
@@ -15,9 +15,24 @@ const WorkExperience = () => (
             location={["Milan, MI"]}
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
-                "Developed a web application for a client in the travel industry using Javascript and Java.",
-                "Implemented features such as modals, etc etc.",
-                "Collaborated with a team of 6 developers."
+                "Actively contributing to the enhancement of a B2B ecommerce solution for a major booking platform",
+                "Communication with clients and design teams to understand requirements and propose solutions",
+                "Planning, review and implementation of new features and functionalities",
+                <span key="key-1-deloitte">Utilizing <b>Agile Scrum</b> practices, coordinated through Jira, Confluence and GitLab, within a team of 10 developers</span>,
+            ]}
+        />
+        <SectionItem 
+            title="Full-stack Developer"
+            company="DecHit S.p.A."
+            companyUrl="https://www.dechit.it/"
+            startDate="November 2022"
+            endDate="January 2023"
+            present={false}
+            location={["Milan, MI"]}
+            locationUrl="https://www.google.com/maps/place/Milan,+Italy"
+            description={[
+                "3-month intensive course focused on back-end development",
+                "Course spanning from E/R models to advanced frameworks like Java Spring Boot with Hibernate",
             ]}
         />
         <SectionItem 
@@ -30,8 +45,7 @@ const WorkExperience = () => (
             location={["Rimini, RN"]}
             locationUrl="https://www.google.com/maps/place/Rimini,+RN"
             description={[
-                "First steps in the world of software development",
-                "Website and database management of a booking engine",
+                "Website and Database management of a Booking Engine Website for Hotels and B&Bs",
             ]}
         />
     </div>

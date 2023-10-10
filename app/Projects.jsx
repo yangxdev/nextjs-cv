@@ -6,7 +6,7 @@ const Projects = () => (
         <h1 className="uppercase font-bold text-xl mb-1">Projects</h1>
         <Divider />
         <SectionItem
-            title="Personal Curriculum Vitae Website"
+            title="Curriculum Vitae Website"
             company="Personal Project"
             companyUrl="https://github.com/yangxdev-org/nextjs-cv"
             startDate="October 2023"
@@ -14,7 +14,8 @@ const Projects = () => (
             present={true}
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
-            description={["This website was built using NextJS and TailwindCSS.", "It is hosted on Vercel."]}
+            description={[
+                "My CV website built with NextJS and TailwindCSS, hosted on Vercel.", ]}
         />
         <SectionItem
             title="Front End Development Projects"
@@ -25,7 +26,7 @@ const Projects = () => (
             present={true}
             location="Rimini, RN"
             locationUrl="https://www.google.com/maps/place/Rimini,+RN"
-            description={["Developed 10+ front-end projects starting with Vanilla JS, then moving to ReactJS and NextJS"]}
+            description={["Building of front-end projects using technologies spanning from vanilla JS to ReactJS and NextJS, coupled with Bootstrap, SCSS, up to TailwindCSS"]}
         />
     </div>
 );
