@@ -25,7 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb)); */
     background-color: white;
-    display: flex;
+    /* display: flex; */
     height: 100vh;
     justify-content: center;
     flex-direction: column;

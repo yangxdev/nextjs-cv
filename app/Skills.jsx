@@ -17,7 +17,7 @@ const Skills = () => (
             icon={<FontAwesomeIcon width="16" icon={faCss3Alt} />}
         />
         <SkillsItem
-            title="HTML"
+            title="Agile Methodologies (Scrum)"
             icon={<FontAwesomeIcon width="16" icon={faHtml5} />}
         />
         <SkillsItem

@@ -6,9 +6,9 @@ const WorkExperience = () => (
         <h1 className='uppercase font-bold text-xl mb-1'>Work Experience</h1>
         <Divider />
         <SectionItem 
-            title="Full-stack Developer & Consultant"
-            company="Deloitte"
-            companyUrl=""
+            title="Full-stack Developer"
+            company="Deloitte Digital"
+            companyUrl="https://www.deloittedigital.com/it/en.html"
             startDate="March 2023"
             endDate=""
             present={true}
@@ -16,14 +16,14 @@ const WorkExperience = () => (
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
                 "Actively contributing to the enhancement of a B2B ecommerce solution for a major booking platform",
-                "Communication with clients and design teams to understand requirements and propose solutions",
-                "Planning, review and implementation of new features and functionalities",
-                <span key="key-1-deloitte">Utilizing <b>Agile Scrum</b> practices, coordinated through Jira, Confluence and GitLab, within a team of 10 developers</span>,
+                "Communication with clients, PMs, UI/UX design teams to understand requirements, provide feedback and propose solutions",
+                "Planning, review and implementation of new designs, features, functionalities and bug fixes",
+                "Agile Scrum methodology, coordinated through Jira, Confluence and GitLab, within a team of 10 developers across the country and abroad",
             ]}
         />
         <SectionItem 
             title="Full-stack Developer"
-            company="DecHit S.p.A."
+            company="DecHit"
             companyUrl="https://www.dechit.it/"
             startDate="November 2022"
             endDate="January 2023"
