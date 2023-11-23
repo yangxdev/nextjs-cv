@@ -7,7 +7,7 @@ const ContactSection = () => (
     <div className="card-left-section1-contacts flex flex-nowrap text-sm font-light">
         <div className="card-left-section1-contacts-left mr-4 ml-1 ">
             <ContactLink
-                href="https://www.linkedin.com/in/yangxdev"
+                href="https://www.linkedin.com/in/yangxng"
                 iconName="linkedin"
                 label="linkedin.com/in/yangxdev"
                 icon={<FontAwesomeIcon width="14" icon={faLinkedinIn} />}
@@ -24,12 +24,6 @@ const ContactSection = () => (
                 label="telegram.me/yangxng"
                 icon={<FontAwesomeIcon width="14" icon={faTelegram} />}
             />
-            {/* <ContactLink
-                href="https://www.instagram.com/yang.xng"
-                iconName="instagram"
-                label="instagram.com/yang.xng"
-                icon={<FontAwesomeIcon  width="14" icon={faInstagram} />}
-            /> */}
         </div>
         <div className="card-left-section1-contacts-right">
             <ContactLink
