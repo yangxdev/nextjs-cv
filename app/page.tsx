@@ -11,7 +11,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
   return (
-    <div className="container mx-auto p-4 bg-white h-max mt-11"
+    <div className="container mx-auto p-4 bg-white h-max"
       style={{ maxWidth: '210mm', maxHeight: '297mm'}}  >
       <div className="card bg-white flex">
         <div className="card-left flex-grow col">
@@ -24,7 +24,7 @@ export default function Home() {
               </div>
             </div>
             <div className="card-left-section1-job-title">
-              <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Full Stack Developer</h2>
+              <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Frontend Developer</h2>
             </div>
             <ContactSection />
             <WorkExperience />

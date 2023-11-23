@@ -5,67 +5,59 @@ export default function QrCodeProjectsIcon() {
             width="96" height="96" viewBox="0 0 1160 1160" enableBackground="new 0 0 1160 1160" xmlSpace="preserve">
             <rect x="0" y="0" width="1160" height="1160" fill="rgb(255,255,255)" /><g transform="translate(80,80)"><g transform="translate(320,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(360,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(600,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(400,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,0) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(320,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(360,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(480,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(560,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(640,40) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(360,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(480,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(520,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(640,80) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(320,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(360,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(400,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(480,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(520,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(560,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(640,120) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(360,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(400,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(480,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(560,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(600,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,160) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(360,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(400,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(440,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(480,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(560,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(640,200) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(320,240) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -81,71 +73,79 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(360,280) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,280) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(480,280) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(600,280) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,280) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(0,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(160,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(80,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(120,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(200,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(240,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(280,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(360,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(400,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(440,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(480,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(560,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(680,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(720,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(760,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(800,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(840,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(920,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(960,320) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(0,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(40,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(80,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(120,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(160,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(200,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(320,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(360,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(440,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(480,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(560,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(640,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(800,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(680,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(760,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(920,360) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(160,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(0,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(200,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(40,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(240,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(280,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(360,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(400,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -153,45 +153,43 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(760,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(680,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(720,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(800,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(840,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(880,400) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(80,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(120,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(200,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(160,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(320,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(360,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(400,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(520,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(600,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(680,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(720,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(840,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(880,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(920,440) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(120,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(0,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(40,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(80,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(160,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(240,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(440,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(320,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(480,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(600,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(680,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -199,7 +197,7 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(760,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(800,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(880,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -207,65 +205,69 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(960,480) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(0,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(40,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(80,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(120,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(160,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(200,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(280,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(360,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(480,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(520,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(560,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(600,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(680,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(640,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(720,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(760,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(920,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(960,520) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(40,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(80,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(120,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(240,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(280,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(400,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(440,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(480,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(560,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(760,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(680,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(880,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(920,560) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(0,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(80,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(160,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(280,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(320,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(400,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(360,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(440,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(600,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(640,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(680,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -273,31 +275,19 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(880,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(920,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(0,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(40,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(960,600) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(80,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(160,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(200,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(120,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(240,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(280,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(320,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(400,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(480,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(600,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(520,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -313,21 +303,29 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(880,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(920,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(960,640) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(320,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(360,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(520,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(600,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(880,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(960,680) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(320,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(360,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(400,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(520,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -335,29 +333,27 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(880,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(920,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(960,720) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(320,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(480,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(600,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(640,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(800,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(880,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(920,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(960,760) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(320,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(360,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(440,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(400,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(520,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(440,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(560,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -373,25 +369,31 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(840,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(880,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(920,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(960,800) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(320,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(440,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(480,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(520,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(720,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(760,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(800,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(840,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(880,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(920,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(960,840) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(320,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(360,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(400,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -401,35 +403,33 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(560,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(640,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(680,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(720,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(800,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(880,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(920,880) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(400,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(440,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(480,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(560,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(600,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(680,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(720,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(760,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(800,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(840,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
             </g></g><g transform="translate(880,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
-                <rect width="100" height="100" />
-            </g></g><g transform="translate(920,920) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(320,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
@@ -437,11 +437,19 @@ export default function QrCodeProjectsIcon() {
                 <rect width="100" height="100" />
             </g></g><g transform="translate(400,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
+            </g></g><g transform="translate(440,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
             </g></g><g transform="translate(480,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(520,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
-            </g></g><g transform="translate(600,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+            </g></g><g transform="translate(560,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(760,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(800,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
+                <rect width="100" height="100" />
+            </g></g><g transform="translate(840,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />
             </g></g><g transform="translate(880,960) scale(0.4,0.4)"><g transform="" style={{fill: 'rgb(0, 0, 0)'}}>
                 <rect width="100" height="100" />

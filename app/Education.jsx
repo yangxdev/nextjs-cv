@@ -1,10 +1,12 @@
 import SectionItem from "./SectionItem";
 import Divider from "./Divider";
+import UnimibLogo from './Icons/UnimibIcon';
 
 const Education = () => (
     <div className="card-right-section2-education">
         <h1 className="uppercase font-bold text-xl mb-1">Education</h1>
         <Divider />
+        <UnimibLogo />
         <SectionItem 
             title="Bachelor of Computer Science"
             company="University of Milan - Bicocca"
