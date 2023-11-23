@@ -6,7 +6,7 @@ const SectionItem = (props) => (
     <div className="card-left-section3-projects-item mb-1">
         <h2 className="text-md font-semibold">{props.title}</h2>
         <a href={props.companyUrl} target="_blank" rel='noopener noreferrer'>
-            <h3 className="text-sm text-blue-400 mb-1 font-semibold hover:text-blue-600 transition duration-100 ease-in-out">{props.company}</h3>
+            <h3 className="text-sm text-accent mb-1 font-semibold hover:text-blue-600 transition duration-100 ease-in-out">{props.company}</h3>
         </a>
         <div className="card-left-section3-projects-item-row1 flex items-center mb-1">
             <FontAwesomeIcon width="12" icon={faCalendar} className="text-xs" />

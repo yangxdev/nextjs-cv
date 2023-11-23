@@ -8,23 +8,25 @@ import Education from './Education';
 import Skills from './Skills';
 import Certifications from './Certifications';
 import { Analytics } from '@vercel/analytics/react';
+import Theme from './Theme';
 
 export default function Home() {
   return (
-    <div className="container mx-auto p-4 bg-white h-max"
+    <div className="container mx-auto p-4 h-max"
       style={{ maxWidth: '210mm', maxHeight: '297mm'}}  >
-      <div className="card bg-white flex">
+      {/* <Theme /> */}
+      <div className="card flex">
         <div className="card-left flex-grow col">
           <div className="card-left-section1 text-black">
-            <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center hover:text-blue-600 transition duration-100 ease-in-out">
+            <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center text-color hover:text-blue-600 transition duration-100 ease-in-out">
               <h1 className='mr-1'>Yang</h1>
               <h1>Xiang</h1>
-              <div className="card-left-section1-full-name-logo ml-1">
+              <div className="card-left-section1-full-name-logo ml-2">
                 <Image className='rounded-full' src="/mylogo.jpg" width={24} height={24} alt={'personal logo'} />
               </div>
             </div>
             <div className="card-left-section1-job-title">
-              <h2 className='flex-nowrap font-semibold text-xl text-blue-400'>Frontend Developer</h2>
+              <h2 className='flex-nowrap font-semibold text-xl text-accent'>Frontend Developer</h2>
             </div>
             <ContactSection />
             <WorkExperience />
