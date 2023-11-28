@@ -13,7 +13,9 @@ import Theme from './Theme';
 export default function Home() {
   return (
     <div className="container mx-auto p-4 h-max"
-      style={{ maxWidth: '210mm', maxHeight: '297mm'}}  >
+      style={{ maxWidth: '210mm', maxHeight: '297mm', 
+        boxShadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px'
+      }}  >
       {/* <Theme /> */}
       <div className="card flex">
         <div className="card-left flex-grow col">
