@@ -3,29 +3,58 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+  --theme-transition: ease-in-out 0.4s;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+  --palette-white: #FFFFFF;
+  --palette-accent: #007BFF;
+
+  --palette-darkest: #272829;
+  --palette-darker: #61677A;
+  --palette-dark: #D8D9DA;
+  --palette-light: #FFFFFF;
+
+  /* Dark theme (adjusted for darkness or brightness) */
+  --palette-darkest-dark: #0F1011;
+  --palette-darker-dark: #3C4253;
+  --palette-dark-dark: #A9AAAB;
+  --palette-light-dark: #ECE7D2;
 }
 
 body {
+  transition: var(--theme-transition);
+  height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  
+  background-color: var(--palette-white);
+
+  .text-color {
+    color: var(--palette-darkest) !important;
+  }
+  .text-accent {
+    color: var(--palette-accent) !important;
+  }
+
+  .container {
+    color: var(--palette-darkest);
+    .card * {
+      color: inherit;
+    }
+  }
+}
+
+body.dark {
+  transition: var(--theme-transition);
+
+  background-color: var(--palette-darker-dark);
+
+  .container {
+    color: var(--palette-light-dark);
+  }
+ 
+body {
   color: rgb(var(--foreground-rgb));
-  /* background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb)); */
     background-color: white;
-    /* display: flex; */
     height: 100vh;
     justify-content: center;
     flex-direction: column;
