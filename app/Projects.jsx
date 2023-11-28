@@ -17,17 +17,6 @@ const Projects = () => (
             description={[
                 "My personal website built with NextJS and TailwindCSS, hosted on Vercel, showing my experiences and contacts",]}
         />
-        {/* <SectionItem
-            title="Front-end Development Projects"
-            company="Frontend Mentor"
-            companyUrl="https://www.frontendmentor.io/profile/yangxdev"
-            startDate="April 2020"
-            endDate=""
-            present={true}
-            location="Rimini, RN"
-            locationUrl="https://www.google.com/maps/place/Rimini,+RN"
-            description={["Building of front-end projects using technologies spanning from vanilla JS to ReactJS and NextJS, coupled with Bootstrap, SASS, up to TailwindCSS"]}
-        /> */}
         <SectionItem
             title="Mobile Devices Programming Project: Smoovie"
             company="University of Milan-Bicocca"

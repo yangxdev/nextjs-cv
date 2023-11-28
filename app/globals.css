@@ -51,4 +51,11 @@ body.dark {
   .container {
     color: var(--palette-light-dark);
   }
+ 
+body {
+  color: rgb(var(--foreground-rgb));
+    background-color: white;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
 }
