@@ -32,12 +32,12 @@ const ContactSection = () => (
                 label="yangxdev@gmail.com"
                 icon={<FontAwesomeIcon width="14" icon={faEnvelope} />}
             />
-            <ContactLink
+            {/* <ContactLink
                 href="tel: +39 3342229699"
                 iconName="phone"
                 label="+39 334 2229699"
                 icon={<FontAwesomeIcon width="14" icon={faPhone} />}
-            />
+            /> */}
             <ContactLink
                 href="https://www.google.com/maps/place/Milan,+Italy"
                 iconName="location"
