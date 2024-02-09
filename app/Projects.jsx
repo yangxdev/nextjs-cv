@@ -6,19 +6,19 @@ const Projects = () => (
         <h1 className="uppercase font-bold text-xl mb-1">Projects</h1>
         <Divider />
         <SectionItem
-            title="Personal Website"
+            title="Portfolio Website"
             company="Next.js Project"
-            companyUrl="https://nextjs-project1-yangxdev.vercel.app/"
+            companyUrl="https://www.yangxdev.com/"
             startDate="October 2023"
             endDate=""
             present={true}
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
-                "My personal website built with NextJS and TailwindCSS, hosted on Vercel, showing my experiences and contacts",]}
+                "My personal website built with NextJS and TailwindCSS, showing my experiences and works",]}
         />
         <SectionItem
-            title="Mobile Devices Programming Project: Smoovie"
+            title="Mobile Devices Programming Project"
             company="University of Milan-Bicocca"
             companyUrl="https://www.unimib.it/"
             startDate="August 2022"
@@ -29,7 +29,7 @@ const Projects = () => (
             description={["Developed, managed and directed the front-end side of an Android application in a team of 4 people. Great use of Android Studio (Java), GitHub (Pull Requests, Issues, Merge Conflicts)"]}
         />
         <SectionItem
-            title="Distributed Systems Course Project: Flask Banking System"
+            title="Distributed Systems Project"
             company="University of Milan-Bicocca"
             companyUrl="https://www.unimib.it/"
             startDate="June 2022"

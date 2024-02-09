@@ -12,17 +12,17 @@ const WorkExperience = () => (
             startDate="March 2023"
             endDate=""
             present={true}
-            location={["Milan, MI"]}
+            location={["Milan, MI / Padua, PD"]}
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
-                "Actively contributing to the enhancement of a B2B ecommerce solution for a major booking platform",
+                "Released graphic and functional updates to entire sections of the booking flow, utilized by agencies worldwide (over 2000) to serve 1 million+ clients annually.",
                 "Communication with clients, PMs, UI/UX design teams to understand requirements, provide feedback and propose solutions",
                 "Planning, review and implementation of new designs, features, functionalities and bug fixes",
-                "Agile Scrum methodology, coordinated through Jira, Confluence and GitLab, within a team of 10 developers across the country and abroad",
+                "Working in a team of 10 developers (both technical and functional), using Scrum Agile methodology with Jira and Confluence"
             ]}
         />
         <SectionItem 
-            title="Full-stack Developer"
+            title="Junior Full-stack Developer"
             company="DecHit"
             companyUrl="https://www.dechit.it/"
             startDate="November 2022"
