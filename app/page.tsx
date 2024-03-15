@@ -18,7 +18,7 @@ export default function Home() {
       style={{
         maxWidth: "210mm",
         maxHeight: "297mm",
-        boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px",
+        // boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px",
       }}
     >
       {/* <Theme /> */}
@@ -28,7 +28,7 @@ export default function Home() {
             <div className="card-left-section1-full-name flex-nowrap flex uppercase font-extrabold text-2xl items-center text-color hover:text-blue-600 transition duration-100 ease-in-out">
               <h1 className="mr-1">Yang</h1>
               <h1>Xiang</h1>
-              <div className="card-left-section1-full-name-logo ml-2">
+              {/* <div className="card-left-section1-full-name-logo ml-2">
                 <Image
                   className="rounded-full"
                   src="/mylogo.jpg"
@@ -36,10 +36,10 @@ export default function Home() {
                   height={24}
                   alt={"personal logo"}
                 />
-              </div>
+              </div> */}
             </div>
             <div className="card-left-section1-job-title">
-              <h2 className="flex flex-nowrap font-semibold text-xl text-accent flex-row items-center gap-2">
+              <h2 className="flex flex-nowrap font-semibold text-xl text-accent flex-row items-center gap-2 whitespace-nowrap">
                 <div className="">Software Engineer / EU Citizen{" "}</div>
                 <ReactCountryFlag
                   countryCode="IT"

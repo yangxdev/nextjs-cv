@@ -17,7 +17,7 @@ const Projects = () => (
             ]}
         />
         <SectionItem
-            title="Portfolio Website"
+            title="Portfolio Website ★"
             company="YANGXDEV"
             companyUrl="https://www.yangxdev.com/"
             startDate="October 2023"
