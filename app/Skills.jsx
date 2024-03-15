@@ -9,7 +9,7 @@ const Skills = () => (
         <h1 className="uppercase font-bold text-xl mb-1">Skills</h1>
         <Divider />
         <SkillsItem
-            title="JavaScript (JQuery, React.js, Next.js)"
+            title="JavaScript (jQuery, React, Next)"
             icon={<JavascriptIcon width="20" />}
         />
         <SkillsItem

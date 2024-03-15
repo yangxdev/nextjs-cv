@@ -39,9 +39,9 @@ const ContactSection = () => (
                 icon={<FontAwesomeIcon width="14" icon={faPhone} />}
             />
             <ContactLink
-                href="https://www.google.com/maps/place/Padua,+Italy"
+                href="https://www.google.com/maps/place/Milan,+Italy"
                 iconName="location"
-                label="Padua, Italy"
+                label="Milan, Italy"
                 icon={<FontAwesomeIcon width="14" icon={faMapMarkerAlt} />}
             />
         </div>

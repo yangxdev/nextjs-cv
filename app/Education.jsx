@@ -17,11 +17,11 @@ const Education = () => (
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
-                "Mobile Devices Programming",
-                "Networks and Operative Systems",
-                "Algorithms and Data Structures",
-                "Software Engineering",
-                "Databases"
+                // "Mobile Devices Programming",
+                // "Networks and Operative Systems",
+                // "Algorithms and Data Structures",
+                // "Software Engineering",
+                // "Databases"
             ]}
         />
         <SectionItem 
@@ -34,8 +34,8 @@ const Education = () => (
             location="Rimini, RN"
             locationUrl="https://www.google.com/maps/place/Rimini,+RN"
             description={[
-                "Web Technology",
-                "Computer Networking"
+                // "Web Technology",
+                // "Computer Networking"
             ]}
         />
     </div>
