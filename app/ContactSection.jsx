@@ -35,7 +35,7 @@ const ContactSection = () => (
             <ContactLink
                 href="tel: +39 3342229699"
                 iconName="phone"
-                label="+39 334 2229699"
+                label="+39 334 222 9699"
                 icon={<FontAwesomeIcon width="14" icon={faPhone} />}
             />
             <ContactLink
