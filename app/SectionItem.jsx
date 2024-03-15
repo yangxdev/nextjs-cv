@@ -11,7 +11,7 @@ const SectionItem = (props) => (
         <div className="card-left-section3-projects-item-row1 flex items-center mb-1">
             <FontAwesomeIcon width="12" icon={faCalendar} className="text-xs" />
             <h3 className="text-xs mx-1">{props.startDate} {props.present && " - Present"} {!props.present && " - "} {props.endDate}</h3>
-            <FontAwesomeIcon width="12" icon={faMapMarkerAlt} className="text-xs" />
+            {props.location && <FontAwesomeIcon width="12" icon={faMapMarkerAlt} className="text-xs" />}
             <a href={props.locationUrl} target='_blank' rel='noopener noreferrer'>
                 <h3 className='text-xs ml-1 font-semibold hover:text-blue-400 transition duration-100 ease-in-out'>{props.location}</h3>
             </a>

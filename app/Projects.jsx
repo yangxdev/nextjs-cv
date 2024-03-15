@@ -5,15 +5,25 @@ const Projects = () => (
     <div className="card-left-section3-projects">
         <h1 className="uppercase font-bold text-xl mb-1">Projects</h1>
         <Divider />
+        <SectionItem 
+            title="Productivity App"
+            company="Twilight"
+            startDate="March 2024"
+            endDate=""
+            present={true}
+            location="Full Remote"
+            description={[
+                "Currently collaborating with another software engineer on building a productivity app using Nuxt (Vue), Drizzle ORM and PostgreSQL. The app is designed to help users to manage their time and tasks.",
+            ]}
+        />
         <SectionItem
             title="Portfolio Website"
-            company="Next.js Project"
+            company="YANGXDEV"
             companyUrl="https://www.yangxdev.com/"
             startDate="October 2023"
             endDate=""
             present={true}
-            location="Milan, MI"
-            locationUrl="https://www.google.com/maps/place/Milan,+Italy"
+            location="Full Remote"
             description={[
                 "My personal website built with NextJS and TailwindCSS, showing my experiences and works",]}
         />
@@ -26,7 +36,7 @@ const Projects = () => (
             present={false}
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
-            description={["Developed, managed and directed the front-end side of an Android application in a team of 4 people. Great use of Android Studio (Java), GitHub (Pull Requests, Issues, Merge Conflicts)"]}
+            description={["Developed, managed and directed the front-end side of an Android application in a team of 4 people. Great use of Android Studio, Git (Pull Requests, Issues, Merge Conflicts)."]}
         />
         <SectionItem
             title="Distributed Systems Project"
@@ -37,7 +47,7 @@ const Projects = () => (
             present={false}
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
-            description={["Developed the front-end side of a Python Flask website. Managed server-side data (REST API) and frontend-backend communication, using Git for version control"]}
+            description={["Developed the front-end side of a Python Flask website. Managed server-side data (REST API) and frontend-backend communication, using Git."]}
         />
     </div>
 );
