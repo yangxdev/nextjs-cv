@@ -17,7 +17,7 @@ const Education = () => (
             location="Milan, MI"
             locationUrl="https://www.google.com/maps/place/Milan,+Italy"
             description={[
-                // "Mobile Devices Programming",
+                // "Mobil Devices Programming",
                 // "Networks and Operative Systems",
                 // "Algorithms and Data Structures",
                 // "Software Engineering",
