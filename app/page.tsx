@@ -40,7 +40,7 @@ export default function Home() {
             </div>
             <div className="card-left-section1-job-title">
               <h2 className="flex flex-nowrap font-semibold text-xl text-accent flex-row items-center gap-2 whitespace-nowrap">
-                <div className="">Software Engineer / EU Citizen{" "}</div>
+                <div className="">Software Engineer / EU Citizen </div>
                 <ReactCountryFlag
                   countryCode="IT"
                   svg
@@ -62,23 +62,20 @@ export default function Home() {
               </h2>
             </div>
             <ContactSection />
+            <Education />
             <WorkExperience />
             <Skills />
-            <Certifications />
           </div>
         </div>
         <div className="card-right flew-grow col w-1/2 ml-4">
           <div className="card-right-section0">
             <QrCodes />
           </div>
-          {/* <div className="card-right-section1 text-black">
-            <CareerObjective />
-          </div> */}
           <div className="card-right-section2 text-black mt-1">
-            <Education />
+            <Projects />
           </div>
           <div className="card-right-section3 text-black">
-            <Projects />
+            <Certifications />
           </div>
         </div>
       </div>
