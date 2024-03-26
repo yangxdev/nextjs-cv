@@ -16,10 +16,6 @@ const Skills = () => (
             title="CSS (TailwindCSS)"
             icon={<FontAwesomeIcon width="16" icon={faCss3Alt} />}
         />
-        {/* <SkillsItem
-            title="Agile Methodologies"
-            icon={<FontAwesomeIcon width="16" icon={faHtml5} />}
-        /> */}
         <SkillsItem
             title="Java"
             icon={<FontAwesomeIcon width="16" icon={faJava} />}
